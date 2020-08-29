@@ -1,0 +1,21 @@
+{
+	"dockerfiles": {},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "memcached",
+				"tag": "latest",
+				"digest": "10e2fbb940589f2d780068f5df0fec418442ff8fe55bbbfc2fd5b950047cf059",
+				"serviceName": "memcached",
+				"dockerfile": ""
+			},
+			{
+				"name": "redis",
+				"tag": "latest",
+				"digest": "09c33840ec47815dc0351f1eca3befe741d7105b3e95bc8fdb9a7e4985b9e1e5",
+				"serviceName": "redis",
+				"dockerfile": ""
+			}
+		]
+	}
+}
