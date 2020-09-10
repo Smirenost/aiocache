@@ -5,7 +5,7 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "868a7c87b944ff90664414c978c162452c0804885ec5ffa784be89b199ece32b",
+				"digest": "cf792f2d73878bd2aa59a745d343cff379a5970529405a52b9e04e8711a396f1",
 				"serviceName": "memcached",
 				"dockerfile": ""
 			},
