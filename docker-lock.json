@@ -5,14 +5,14 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "ce20bdf3f53415087f82f50448194f82c38e5a041cb138c218132c19e4d10ed4",
+				"digest": "53c671b054410e744342c2ef3b1e64c9318083954cec286a01fd8942b180569f",
 				"serviceName": "memcached",
 				"dockerfile": ""
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "665a0f8551a6ec3538fb1e0bef337f269085a728826ee6663f46a7dbdfec73ac",
+				"digest": "4f5ff58c5ee19fabfce14bc2afe68c53efccb47d640219178db690c9e34b1090",
 				"serviceName": "redis",
 				"dockerfile": ""
 			}
