@@ -4,7 +4,7 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "016113ba9ad8bea4f53702f076bd11583f729f429458ef46c2da6952d2311c85",
+				"digest": "a373b18f6ecc77c728c1b387b7c52fe331293319d37d4314ccbf283a726efb10",
 				"service": "memcached"
 			},
 			{
