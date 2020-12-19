@@ -4,13 +4,13 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "",
+				"digest": "944f6eb53be39dfcb895ab110d685e4f0320ffa00b8a1c0fe35aeb52f4f89d30",
 				"service": "memcached"
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "",
+				"digest": "0f724af268d0d3f5fb1d6b33fc22127ba5cbca2d58523b286ed3122db0dc5381",
 				"service": "redis"
 			}
 		]
