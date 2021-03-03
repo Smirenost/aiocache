@@ -10,7 +10,7 @@
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "26bd5f3d2bbfb21d0e4f03d642570e63c8776d2a9e5963e4057280fb3b4e3e29",
+				"digest": "9a1a2bb9fd2bd8b2c15aaca44d8e6ba8bc448df9b7b8d7d24ba4b472e0da1b8a",
 				"service": "redis"
 			}
 		]
